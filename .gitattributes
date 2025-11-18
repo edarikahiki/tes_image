@@ -1,6 +1,3 @@
-# Automatically normalize text files
-* text=auto
-
 # Prevent Git from altering binary files (images)
 *.png binary
 *.jpg binary
